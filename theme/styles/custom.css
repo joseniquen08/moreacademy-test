@@ -1,0 +1,3 @@
+.slidev-layout.intro-image {
+  @apply bg-yellow-400 flex flex-col items-center justify-center;
+}
